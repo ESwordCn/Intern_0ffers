@@ -6,11 +6,11 @@
 
 #####  😀😀😀有进度😀😀😀
 
+2023-04-09 12:40 [(简历挂)DolphinDB智臾科技 ](https://app.mokahr.com/campus-recruitment/dolphindb/101962#/candidateHome/applications)
+
 2023-04-04 10:59 [华子我爱你](https://career.huawei.com/reccampportal/portal5/user-index.html)
 
 2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
-
-2023-04-03 13:54 [拼多多](https://careers.pinduoduo.com/campus/personal-center)
 
 2023-04-03 21:38 [中科空天](https://zhaopin.aircas.ac.cn/system/userInfo/myDeliveryDetail?id=1630106494559182849)
 
@@ -28,9 +28,15 @@
 
 2023-04-03 13:35 [(无笔试)腾讯](https://join.qq.com/progress.html)
 
-2023-04-03 10:51 [(简历挂，已无)天王星量化](https://app.mokahr.com/m/candidate/applications/deliver-query/uranus-research)
+2023-04-03 13:54 [(笔试挂)拼多多](https://careers.pinduoduo.com/campus/personal-center)
+
+2023-04-03 14:09 [(一面挂)阿里巴巴](https://talent.alibaba.com/personal/campus-application?lang=zh)
+
+2023-04-03 09:15 [(二面挂)美团](https://zhaopin.meituan.com/web/personalCenter/deliveryRecord)
 
 2023-04-08 11:20 [(情景挂，已无)Beisen北森](https://beisen.zhiye.com/intern/jobs)
+
+2023-04-03 10:51 [(简历挂，已无)天王星量化](https://app.mokahr.com/m/candidate/applications/deliver-query/uranus-research)
 
 2023-04-04 22:10 [(简历挂，已无)合合信息](https://intsig.zhiye.com/personal/deliveryRecord)
 
@@ -48,39 +54,33 @@
 
 2023-04-04 09:29 [(简历挂，全挂)商汤](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/account.html#/myDeliver)
 
-2023-04-13 10:24 [(简历挂)图森未来](https://app.mokahr.com/campus_apply/tusenweilai/72214#/candidateHome/applications)
+2023-04-03 17:06 [(简历挂，已无)Cider](https://ciderglobal.jobs.feishu.cn/504718/position/application?spread=QPXGEJS)
+
+2023-04-13 10:24 [(简历挂，已无)图森未来](https://app.mokahr.com/campus_apply/tusenweilai/72214#/candidateHome/applications)
+
+2023-04-03 14:04 [(简历挂，已无)小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
+
+2023-04-04 21:07 [(简历挂，已无)蔚来校园](https://nio.jobs.feishu.cn/campus/position/application?spread=7Q6WWWR)
 
 2023-04-04 08:34 [(简历挂)地平线](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/account.html#/myDeliver)
 
-2023-04-04 21:07 [(简历挂)蔚来校园](https://nio.jobs.feishu.cn/campus/position/application?spread=7Q6WWWR)
-
 2023-04-04 17:12 [(简历挂)字节跳动](https://jobs.bytedance.com/campus/position/application?referral_code=FYW8CGF)
 
+2023-04-03 16:30 [(简历挂)百度](https://talent.baidu.com/jobs/center)
+
 2023-04-04 09:10 [(简历挂)网易](https://hr.163.com/user.html/application)
-
-2023-04-03 14:04 [(简历挂)小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
-
-2023-04-03 17:06 [(简历挂)Cider](https://ciderglobal.jobs.feishu.cn/504718/position/application?spread=QPXGEJS)
 
 2023-04-04 10:43 [(简历挂)GEELY 吉利](https://campus.geely.com/hcm-web/#/ucenter/cmine)
 
 2023-04-05 09:23 [(简历挂)七牛云](https://app.mokahr.com/campus-recruitment/qiniuyun/73989#/candidateHome/applications)
 
-2023-04-09 12:40 [(简历挂)DolphinDB智臾科技 ](https://app.mokahr.com/campus-recruitment/dolphindb/101962#/candidateHome/applications)
-
 2023-04-03 16:36 [(简历挂)OPPO](https://careers.oppo.com/campus/record)
-
-2023-04-03 14:09 [(一面挂)阿里巴巴](https://talent.alibaba.com/personal/campus-application?lang=zh)
-
-2023-04-03 09:15 [(二面挂)美团](https://zhaopin.meituan.com/web/personalCenter/deliveryRecord)
 
 
 
 #####  🙃🙃🙃泡池子🙃🙃🙃
 
-2023-04-18 09:33 [HelloTalk](https://hellotalk.jobs.feishu.cn/130439/position/application)
-
-2023-04-18 09:50 [思特奇](http://zhaopin.si-tech.com.cn/outside/index.jsp?=&it_id=384&jl=&raq=cGFnZS_mipXpgJLorrDlvZUv5oqV6YCS6K6w5b2V.raq&ctrl-opentype=self&raqName=page/%E6%8A%95%E9%80%92%E8%AE%B0%E5%BD%95/%E6%8A%95%E9%80%92%E8%AE%B0%E5%BD%95#cGFnZS_mipXpgJLorrDlvZUv5oqV6YCS6K6w5b2V)
+2023-04-20 08:35 [NVIDIA](https://app.mokahr.com/campus_apply/nvidia/47111?sourceToken=5ff66e7f4a5d4fdb26884ea6e98b9402#/candidateHome/applications)
 
 2023-04-04 08:54 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)
 
@@ -95,8 +95,6 @@
 2023-04-04 08:38 [快手](https://zhaopin.kuaishou.cn/recruit/e/#/official/my-apply/)
 
 2023-04-09 20:08 [中兴](https://app.mokahr.com/campus-recruitment/zte/46903#/candidateHome/applications)
-
-2023-04-03 16:30 [百度](https://talent.baidu.com/jobs/center)
 
 2023-04-03 14:07 [哔哩哔哩](https://jobs.bilibili.com/campus/records)
 
@@ -166,6 +164,32 @@
 
 2023-04-18 15:33 [经纬恒润](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/account.html#/myDeliver)
 
+2023-04-19 11:36 [三一集团](http://sanycampus.zhiye.com/Portal/Apply/Index)
+
+2023-04-19 11:50 [宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
+
+2023-04-19 14:07 [三星](https://dearsamsung.zhiye.com/Portal/Apply/Index)
+
+2023-04-19 17:22 [SmartX](https://app.mokahr.com/campus_apply/smartx/4183#/job/bcff8aac-f946-4b2a-8523-db9a5df9fce8/campus_apply/thanks?jobId=bcff8aac-f946-4b2a-8523-db9a5df9fce8&isRecommendation=false&applyInfo%5BaimWorkCity%5D=%E5%8C%97%E4%BA%AC%E5%B8%82&candidateName=%E6%9D%A8%E9%94%B4&candidateId=425103274)
+
+2023-04-19 17:29 [金山](https://join.wps.cn/campus-recruitment/wps/41436#/candidateHome/applications)
+
+2023-04-19 17:33 [星环科技](https://app.mokahr.com/campus-recruitment/transwarp/78066#/candidateHome/applications)
+
+2023-04-19 17:34 [金山云](https://app.mokahr.com/campus_apply/kingsoft/39364#/candidateHome/applications)
+
+2023-04-20 08:59 [东软](https://neusoft-campus.zhiye.com/personal/deliveryRecord)
+
+2023-04-20 09:01 [良品铺子](https://lppz.zhiye.com/personal/deliveryRecord)
+
+2023-04-18 09:33 [HelloTalk](https://hellotalk.jobs.feishu.cn/130439/position/application)
+
+2023-04-18 09:50 [思特奇](http://zhaopin.si-tech.com.cn/outside/index.jsp?=&it_id=384&jl=&raq=cGFnZS_mipXpgJLorrDlvZUv5oqV6YCS6K6w5b2V.raq&ctrl-opentype=self&raqName=page/%E6%8A%95%E9%80%92%E8%AE%B0%E5%BD%95/%E6%8A%95%E9%80%92%E8%AE%B0%E5%BD%95#cGFnZS_mipXpgJLorrDlvZUv5oqV6YCS6K6w5b2V)
+
+2023-04-20 09:11 [海尔](http://maker.haier.net/client/practice/mydelivery.html)
+
+2023-04-20 13:50 [捷氢](https://shpt.zhiye.com/Portal/Apply/Index)
+
 
 
 #####  😅😅😅想躺平😅😅😅
@@ -204,6 +228,8 @@
 
 2023-04-17 14:41 [天风证券](https://wecruit.hotjob.cn/SU6114cab40dcad4106ffc953b/pb/account.html#/myDeliver)
 
+2023-04-20 08:52 [南方基金](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/account.html#/myDeliver)
+
 
 
 #####  😢😢😢无查询😢😢😢
@@ -231,6 +257,10 @@
 2023-04-09 12:53 [Synopsys(无查询)](https://mp.weixin.qq.com/s/5lBdKmS2PDdw4CP9NCbd5g)
 
 2023-04-18 09:33 [中国电信](https://mp.weixin.qq.com/s/ScejLaxLdaPIIM3RYlDp8A)
+
+2023-04-20 08:55 [飞腾](https://www.wjx.top/wjx/join/completemobile2.aspx?activityid=OtY5kGP&joinactivity=117454870048&sojumpindex=690&anst=BcE8H4ES14%2fa7HOmhjj0VRZ8sJnL4Up6&comsign=7CE1B2132E7CCE3B5D090D650F71F58E6A059268&rfrr=1&nw=1&jpm=58)
+
+2023-04-20 08:58 [东软校招](https://neusoft-campus.zhiye.com/form/friendly?fromPage=job&CategoryId=3&submissionId=196346965)
 
 
 
