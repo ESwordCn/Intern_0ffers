@@ -1,5 +1,13 @@
 #####  😢😢😢51job&无查询😢😢😢
 
+2023-05-07 08:11 [博时基金](http://campus.51job.com/bosera2023/)
+
+2023-04-22 10:25 [花旗金融](https://xyz.51job.com/External/MyResume/ResumeEnd.aspx?ctmid=a6c7e322-5a68-4557-8ad2-f98b8b3b6bf2&css=%2f%2fimg03.51jobcdn.com%2fehireplus%2f2022%2fstyle%2fehireplus2009%2fcp%2finc%2f&CtmName=%e8%8a%b1%e6%97%97%e9%87%91%e8%9e%8d%e4%bf%a1%e6%81%af&resumeid=84719823-6672-43df-a40f-7b6f3d36981e&jobid=42ad2de0-f209-4759-98fd-4e527015f9a0,86fff173-27bc-451a-abd1-9898067dff93&accountid=225076237&ismap3=False&prd=xyz.51job.com&prp=&cd=xyz.51job.com&cp=&ruid=&backurl=&auid=&uuid=&partner=)
+
+2023-05-07 08:49 [德州仪器](https://www.moseeker.com/positions/index/cid/4195218?candidateSource=)
+
+2023-04-18 09:50 [思特奇](http://zhaopin.si-tech.com.cn/outside/index.jsp?=&it_id=384&jl=&raq=cGFnZS_mipXpgJLorrDlvZUv5oqV6YCS6K6w5b2V.raq&ctrl-opentype=self&raqName=page/%E6%8A%95%E9%80%92%E8%AE%B0%E5%BD%95/%E6%8A%95%E9%80%92%E8%AE%B0%E5%BD%95#cGFnZS_mipXpgJLorrDlvZUv5oqV6YCS6K6w5b2V)
+
 2023-05-06 23:15 [宁银理财](https://www.wjx.cn/vm/YOUGHil.aspx)
 
 2023-04-28 16:17 [宁波银行内推](https://www.wjx.cn/vm/wpPCvww.aspx#)
@@ -61,6 +69,12 @@
 2023-05-09 09:37 [鸣熙资本](https://www.mxzichan.com/job4.html)
 
 2023-05-09 10:01 [科大讯飞](https://mp.weixin.qq.com/s/Di-vZtHIPNnZ4JVfexvjHg)
+
+2023-05-11 09:41 [宝洁](https://mp.weixin.qq.com/s/UZoCJHfGQu7hNBcaa9b8KQ)
+
+2023-05-11 10:14 [沃尔沃](https://app.mokahr.com/social-recruitment/volvocars/67891#/jobs)
+
+2023-05-11 10:16 [北京移动](http://campus.51job.com/bjydyyjh2023/index1.html)
 
 
 
