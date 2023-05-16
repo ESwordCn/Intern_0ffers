@@ -64,8 +64,6 @@
 
 2023-05-08 21:57 [施耐德电气](http://www.schneidercampus.com/?page=6)
 
-2023-05-08 22:23 [帆软](https://join.fanruan.com/trainee)
-
 2023-05-09 09:37 [鸣熙资本](https://www.mxzichan.com/job4.html)
 
 2023-05-09 10:01 [科大讯飞](https://mp.weixin.qq.com/s/Di-vZtHIPNnZ4JVfexvjHg)
@@ -75,6 +73,20 @@
 2023-05-11 10:14 [沃尔沃](https://app.mokahr.com/social-recruitment/volvocars/67891#/jobs)
 
 2023-05-11 10:16 [北京移动](http://campus.51job.com/bjydyyjh2023/index1.html)
+
+2023-05-13 13:58 [Qualcomm高通](https://www.nowcoder.com/jobs/company-project?dockSourceProjectId=122429&recruitType=1)
+
+2023-05-14 23:03 [国电南自](https://mp.weixin.qq.com/s/wUnTIbXdqrCAuUeo0Ra68A)
+
+2023-05-14 23:13 [招商局工业集团](http://cmirecruit.pincn.com/intern.html)
+
+2023-05-14 23:16 [远识资本](https://mp.weixin.qq.com/s/OB5U4FT40dGrs44Squo8Ow)
+
+2023-05-14 23:21 [Continental](https://mp.weixin.qq.com/s/nLLXjFKJMl1doDCMKu-Lrg)
+
+2023-05-15 10:15 [战略实习生项目-Computer Vision Intern 计算机视觉实习生实习招聘-德国大陆汽车实习生招聘-实习僧](https://www.shixiseng.com/intern/inn_qmyguwh75v5c)
+
+2023-05-15 11:11 [昕诺飞](https://www.shixiseng.com/com/com_gatqtmtw2dg0)
 
 
 
