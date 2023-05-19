@@ -84,9 +84,21 @@
 
 2023-05-14 23:21 [Continental](https://mp.weixin.qq.com/s/nLLXjFKJMl1doDCMKu-Lrg)
 
-2023-05-15 10:15 [战略实习生项目-Computer Vision Intern 计算机视觉实习生实习招聘-德国大陆汽车实习生招聘-实习僧](https://www.shixiseng.com/intern/inn_qmyguwh75v5c)
+2023-05-15 10:15 [德国大陆汽车](https://www.shixiseng.com/intern/inn_qmyguwh75v5c)
 
 2023-05-15 11:11 [昕诺飞](https://www.shixiseng.com/com/com_gatqtmtw2dg0)
+
+2023-05-19 15:43 [达实智能](http://www.chn-das.com/PostdoctoralRecruitment/index.aspx)
+
+2023-05-19 15:45 [均胜](https://mp.weixin.qq.com/s/epgxScEOIAB3-19dVUu4Nw)
+
+2023-05-19 15:59 [ABB](https://mp.weixin.qq.com/s/HFW2cioc_oMZMxIbPcfRfA)
+
+2023-05-19 16:22 [电子五所](https://www.ceprei.com/contents/13/18733.html)
+
+2023-05-19 16:26 [中冶南方](https://mp.weixin.qq.com/s/H3lnTEMgYpDIA-cyff9tRA)
+
+2023-05-19 16:28 [新思科技](https://mp.weixin.qq.com/s/PENbjet9gxVVw2AU__Nnsw)
 
 
 
