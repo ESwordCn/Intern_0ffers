@@ -100,5 +100,15 @@
 
 2023-05-19 16:28 [新思科技](https://mp.weixin.qq.com/s/PENbjet9gxVVw2AU__Nnsw)
 
+2023-05-01 15:13 [中冶赛迪](http://hr.cisdi.com.cn/user_joblist.php)
+
+2023-05-21 09:27 [航天恒星](http://hthx.zhaopin.com/job.html)
+
+2023-05-21 18:01 [延锋集团](http://campus.51job.com/yanfeng2024/#/job)
+
+2023-05-21 18:10 [恩智浦](https://mp.weixin.qq.com/s/gS93MDagQj-YZxgDNOG24w)
+
+2023-05-21 18:14 [合合信息(提前批](https://intsig.zhiye.com/campus/jobs)
+
 
 
