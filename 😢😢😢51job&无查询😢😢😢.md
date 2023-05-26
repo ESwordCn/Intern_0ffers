@@ -110,5 +110,15 @@
 
 2023-05-21 18:14 [合合信息(提前批](https://intsig.zhiye.com/campus/jobs)
 
+2023-05-24 08:38 [梅特勒托利多](https://mp.weixin.qq.com/s/z1S9l0q9khaYNro9slwvtw)
+
+2023-05-25 09:34 [天翼物联](http://campus.51job.com/2023/tywl/main.html#welfare)
+
+2023-05-25 09:37 [移动信息技术](https://bigdata.10086.cn//honghu/hhweb/#/invite?id=3)
+
+2023-05-25 10:30 [天王星量化](https://mp.weixin.qq.com/s/rs-l0T5kChK5-UucDupNCw)
+
+2023-05-26 09:26 [民生银行](http://career.cmbc.com.cn:8080/#/app/home)
+
 
 
