@@ -1,5 +1,15 @@
 #####  😢😢😢51job&无查询😢😢😢
 
+2023-05-11 09:20 [Unity(无查询](https://wecruit.hotjob.cn/SU62e0b5332f9d24381010b077/pb/account.html#/myDeliver)
+
+2023-05-16 09:01 [天融信(无查询](https://topsec.zhiye.com/personal/deliveryRecord)
+
+2023-04-21 19:29 [昆仑万维(Java,Go](https://app.mokahr.com/campus-recruitment/klww/67963#/candidateHome/applications)
+
+2023-04-22 10:22 [数禾科技(Java)](https://shuhezhaopin.zhiye.com/Portal/Apply/Index)
+
+2023-05-15 17:39 [Vertiv](https://vertiv.wintalent.net/wt/vertiv/web/index/applyPositionN300!listApplyPosition?brandCode=1&operational=7e5e0b17494053f93f0282d902d637df7b6d86b197520032d54566cc640d99242df01fd36c684be17ca76f57e70f4a68f7e71e795462aa7580269864a7225e25caf6b383961a29ec7fcbf63e92d4a1c39c9b0defdfb28f79309d09b72f1de48a)
+
 2023-05-07 08:11 [博时基金](http://campus.51job.com/bosera2023/)
 
 2023-04-22 10:25 [花旗金融](https://xyz.51job.com/External/MyResume/ResumeEnd.aspx?ctmid=a6c7e322-5a68-4557-8ad2-f98b8b3b6bf2&css=%2f%2fimg03.51jobcdn.com%2fehireplus%2f2022%2fstyle%2fehireplus2009%2fcp%2finc%2f&CtmName=%e8%8a%b1%e6%97%97%e9%87%91%e8%9e%8d%e4%bf%a1%e6%81%af&resumeid=84719823-6672-43df-a40f-7b6f3d36981e&jobid=42ad2de0-f209-4759-98fd-4e527015f9a0,86fff173-27bc-451a-abd1-9898067dff93&accountid=225076237&ismap3=False&prd=xyz.51job.com&prp=&cd=xyz.51job.com&cp=&ruid=&backurl=&auid=&uuid=&partner=)
@@ -119,6 +129,14 @@
 2023-05-25 10:30 [天王星量化](https://mp.weixin.qq.com/s/rs-l0T5kChK5-UucDupNCw)
 
 2023-05-26 09:26 [民生银行](http://career.cmbc.com.cn:8080/#/app/home)
+
+2023-05-27 15:21 [北斗星通](https://www.bdstar.com/resources.aspx?type=31&id=1)
+
+2023-05-28 14:33 [索尼](https://mp.weixin.qq.com/s/PSEvzBD6JObvvjAWGamuQw)
+
+2023-05-28 14:34 [上海电气(网页设计](https://wecruit.hotjob.cn/SU60de8350bef57c519874bd36/pb/interns.html?postTypeCode=0%2F1227%2F104903)
+
+2023-05-29 08:58 [中广核](https://mp.weixin.qq.com/s/yo_sRMlfJVOSRKBbQEzEWQ)
 
 
 
