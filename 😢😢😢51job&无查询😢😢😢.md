@@ -1,5 +1,9 @@
 #####  😢😢😢51job&无查询😢😢😢
 
+2023-04-19 14:07 [三星](https://dearsamsung.zhiye.com/Portal/Apply/Index)
+
+2023-05-28 11:08 [视海芯图](http://www.seehi.cn/?job/)
+
 2023-05-11 09:20 [Unity(无查询](https://wecruit.hotjob.cn/SU62e0b5332f9d24381010b077/pb/account.html#/myDeliver)
 
 2023-05-16 09:01 [天融信(无查询](https://topsec.zhiye.com/personal/deliveryRecord)
@@ -25,8 +29,6 @@
 2023-04-23 09:13 [(无查询)51WORLD](https://51world.zhiye.com/personal/deliveryRecord)
 
 2023-04-20 08:59 [东软(无查询)](https://neusoft-campus.zhiye.com/personal/deliveryRecord)
-
-2023-04-25 13:51 [(无查)智加科技](https://app.mokahr.com/social-recruitment/plus/73958#/job/1b970e19-bdef-4cc7-ad66-6439a63b2ba9/apply/thanks?jobId=1b970e19-bdef-4cc7-ad66-6439a63b2ba9&recommendCode=NTAU5Wm&codeType=1&isRecommendation=undefined&applyInfo%5BaimWorkCity%5D=%E8%8B%8F%E5%B7%9E%E5%B8%82&applyInfo%5BrecommendCode%5D=NTAU5Wm&candidateName=%E6%9D%A8%E9%94%B4&candidateId=428148106)
 
 2023-04-18 15:33 [经纬恒润(无查](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/account.html#/myDeliver)
 
@@ -71,8 +73,6 @@
 2023-05-04 18:09 [威盛集团](https://www.wjx.top/vm/h8seRhp.aspx)
 
 2023-05-07 08:38 [小鹅通](https://www.xiaoe-tech.com/joinUs)
-
-2023-05-08 21:57 [施耐德电气](http://www.schneidercampus.com/?page=6)
 
 2023-05-09 09:37 [鸣熙资本](https://www.mxzichan.com/job4.html)
 
@@ -137,6 +137,14 @@
 2023-05-28 14:34 [上海电气(网页设计](https://wecruit.hotjob.cn/SU60de8350bef57c519874bd36/pb/interns.html?postTypeCode=0%2F1227%2F104903)
 
 2023-05-29 08:58 [中广核](https://mp.weixin.qq.com/s/yo_sRMlfJVOSRKBbQEzEWQ)
+
+2023-06-01 10:50 [东方电气](https://xiaoyuan.zhaopin.com/company/CC000975030)
+
+2023-06-01 10:54 [中移动金融科技](http://zyjk2022campus.zhaopin.com/trainee.html)
+
+2023-06-02 20:57 [国家智能网联汽车](https://mp.weixin.qq.com/s/k2BkFGHLxLA_zcVIvUemqQ)
+
+2023-06-02 21:10 [三未信安](https://wj.qq.com/s2/12399820/0c1f/)
 
 
 
