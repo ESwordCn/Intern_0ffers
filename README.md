@@ -8,33 +8,33 @@
 
 2023-04-04 10:59 [❤华为❤](https://career.huawei.com/reccampportal/portal5/user-index.html)
 
+2023-04-03 13:35 [腾讯](https://join.qq.com/progress.html)
+
+2023-04-03 16:30 [百度](https://talent.baidu.com/jobs/center)
+
+2023-04-03 14:04 [小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
+
+2023-04-19 11:50 [宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
+
+2023-04-22 10:34 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/account.html#/myDeliver)
+
 2023-04-03 21:38 [中科空天](https://zhaopin.aircas.ac.cn/system/userInfo/myDeliveryDetail?id=1630106494559182849)
 
 2023-04-05 22:01 [CVTE视源](https://careers.cvte.com/zone/resume/applications)
 
-2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery)
-
-2023-04-29 09:45 [奇安信](https://app.mokahr.com/campus_apply/qianxin/29182?recommendCode=DSjdXX1F#/candidateHome/applications)
-
-2023-04-03 13:49 [蚂蚁](https://talent.antgroup.com/personal/campus-application)
-
-2023-04-03 14:04 [小米](https://xiaomi.jobs.f.mioffice.cn/internship/position/application?spread=6AA3R7B)
-
-2023-04-22 10:34 [上汽通用五菱](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/account.html#/myDeliver)
-
-2023-04-03 13:35 [腾讯](https://join.qq.com/progress.html)
-
 
 
 #####  🙃🙃🙃简历筛🙃🙃🙃
+
+2023-04-24 14:26 [H3C](https://career.h3c.com/h3c/user/delivery)
+
+2023-04-29 09:45 [奇安信](https://app.mokahr.com/campus_apply/qianxin/29182?recommendCode=DSjdXX1F#/candidateHome/applications)
 
 2023-04-03 17:14 [米哈游](https://campus.mihoyo.com/?isRecommendation=true&recommendationCode=AFX50&sharePageId=8424#/campus/applyRecord)
 
 2023-04-16 09:55 [网易雷火](https://campus.163.com/app/personal/apply?tab=leihuo)
 
 2023-04-04 10:15 [腾讯音乐](https://join.tencentmusic.com/deliver)
-
-2023-04-04 10:34 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
 
 2023-04-04 08:54 [携程](https://campus.ctrip.com/campus-recruitment/trip/37757/#/candidateHome/applications)
 
@@ -84,11 +84,7 @@
 
 2023-04-19 11:36 [三一集团](http://sanycampus.zhiye.com/Portal/Apply/Index)
 
-2023-04-19 14:07 [三星](https://dearsamsung.zhiye.com/Portal/Apply/Index)
-
 2023-04-19 17:33 [星环科技](https://app.mokahr.com/campus-recruitment/transwarp/78066#/candidateHome/applications)
-
-2023-04-19 17:34 [金山云](https://app.mokahr.com/campus_apply/kingsoft/39364#/candidateHome/applications)
 
 2023-04-20 09:01 [良品铺子](https://lppz.zhiye.com/personal/deliveryRecord)
 
@@ -120,7 +116,7 @@
 
 2023-05-01 09:05 [晶盛机电](https://app.mokahr.com/campus_apply/jsjd/24201?recommendCode=DSY63rJR#/candidateHome/applications)
 
-2023-05-01 15:20 [韶音科技](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/candidateHome/applications)
+2023-05-01 15:20 [韶音科技（嵌入式](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/candidateHome/applications)
 
 2023-05-07 09:03 [绿盟科技](https://app.mokahr.com/campus_apply/nsfocus/29118#/candidateHome/applications)
 
@@ -158,8 +154,6 @@
 
 2023-05-20 15:17 [万兴](https://campus.wondershare.cn/campus_apply/wanxingkeji/41591/#/candidateHome/applications)
 
-2023-05-20 15:29 [浙江保融(Java、前端](https://campus.fingard.com/campus_apply/baorong/25901/#/job/a4009795-f3f8-4b76-9741-26bda61d02f1)
-
 2023-05-21 09:25 [拓竹科技](https://bambulab.jobs.feishu.cn/campus/position/application?spread=RHW8SC1)
 
 2023-05-23 09:20 [北方华创](https://career.naura.com/personal/deliveryRecord)
@@ -170,11 +164,7 @@
 
 2023-05-25 09:32 [东风日产](https://dongfengnissan.zhiye.com/Portal/Apply/Index)
 
-2023-05-25 10:17 [LIZHI（Java](https://lizhi2021.jobs.feishu.cn/referral/campus/position/share/?token=MjsxNjg0ODk0NTc5OTc5OzcwNjY5NDYxNzIyMjUzMjMwMDk7NzIzNjU2NjE0NTU2NTcyMjg5Mg)
-
 2023-05-25 11:39 [心动XD](https://app.mokahr.com/m/candidate/applications/deliver-query/xd)
-
-2023-05-26 10:29 [e签宝（Java](https://esign.zhiye.com/intern/jobs)
 
 2023-05-26 10:30 [我乐家居](https://olo-home.zhiye.com/personal/deliveryRecord)
 
@@ -188,19 +178,25 @@
 
 2023-05-27 16:30 [中望软件](https://app.mokahr.com/campus_apply/zwcad/28356#/candidateHome/applications)
 
-2023-05-27 16:51 [九坤投资](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?recommendCode=DSRj7t3P#/candidateHome/applications)
-
 2023-05-28 09:07 [牧原](https://app.mokahr.com/campus-recruitment/muyuan/96293#/candidateHome/applications)
-
-2023-05-28 11:08 [视海芯图](http://www.seehi.cn/?job/)
 
 2023-05-28 14:44 [敦泰電子（嵌入式](https://www.focaltech-electronics.com/zh-CN/University/index)
 
 2023-05-29 09:10 [中新赛克](https://recruit.sinovatio.com/resume/mine)
 
+2023-06-01 10:52 [康尼机电（嵌入式](https://kangni.zhiye.com/)
+
+2023-06-01 11:12 [上海电气](https://wecruit.hotjob.cn/SU60de8350bef57c519874bd36/pb/account.html#/myDeliver)
+
+2023-06-02 20:57 [三七互娱（go，前端](http://zhaopin.37.com/index.php?m=Home&c=recruit&a=recruit&recruit=2)
+
+2023-06-02 21:10 [麦风科技](https://job.imyfone.cn/intern)
+
 
 
 #####  😅😅😅想躺平😅😅😅
+
+2023-05-27 16:51 [九坤投资](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?recommendCode=DSRj7t3P#/candidateHome/applications)
 
 2023-05-08 14:42 [建发股份](https://campus.chinacnd.com/chinacnd/personal.html?grzx=1)
 
@@ -328,11 +324,31 @@
 
 2023-05-29 08:57 [上海国际集团](https://mp.weixin.qq.com/s/fLYU9w5StrpB9rSSdx3dsw)
 
+2023-06-01 10:49 [上海联合产权交易所](https://www.suaee.com/suaeeHome/#/a/formworkList/aboutUs/talentRecruitment)
+
+2023-06-01 10:51 [九江银行](https://www.hotjob.cn/wt/JJYH/mobweb/v8/position/detail?safe=Y&canBack=true&recruitType=12&postIdsAry=145703&postCanApply=0&entityPage.currentPage=1&openid=&brandCode=1&chooseSiteId=)
+
+2023-06-01 11:03 [中铁十四局](https://wx26867347995492f9.hcmcloud.cn/recruit#/progress_detail?id=2616527&contract_unit=13746852)
+
+2023-06-02 20:55 [中国电信广东](https://hr.gdtel.com.cn/portal/recruit/more/50)
+
+2023-06-02 20:56 [中国建设银行](http://job2.ccb.com/cn/job/mobilev3/notice_detail.html?annoId=20230531122406558627)
+
+2023-06-02 21:00 [银河期货](https://mp.weixin.qq.com/s/icGta9mG-EcdQW5cnFcJuw)
+
 
 
 #####  😭😭😭挂挂挂😭😭😭
 
 ######  🥵🥵🥵最后垂死挣扎🥵🥵🥵
+
+2023-04-03 13:49 [（一面挂）蚂蚁](https://talent.antgroup.com/personal/campus-application)
+
+2023-04-19 17:34 [金山云](https://app.mokahr.com/campus_apply/kingsoft/39364#/candidateHome/applications)
+
+2023-05-20 15:29 [浙江保融(Java、前端](https://campus.fingard.com/campus_apply/baorong/25901/#/job/a4009795-f3f8-4b76-9741-26bda61d02f1)
+
+2023-05-26 10:29 [e签宝（Java](https://esign.zhiye.com/intern/jobs)
 
 2023-05-07 09:11 [(笔试挂)小天才](https://xiaozhao.eebbk.com/campus-recruitment/eebbk/37594/#/)
 
@@ -356,9 +372,7 @@
 
 2023-04-03 14:09 [(一面挂)阿里巴巴](https://talent.alibaba.com/personal/campus-application?lang=zh)
 
-2023-04-19 11:50 [(一面挂)宁德时代](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/candidateHome/applications)
-
-2023-04-27 09:57 [超聚变](https://wecruit.hotjob.cn/SU613445ec2f9d245c993b8c1b/pb/account.html#/myDeliver)
+2023-04-27 09:57 [(简历挂)超聚变](https://wecruit.hotjob.cn/SU613445ec2f9d245c993b8c1b/pb/account.html#/myDeliver)
 
 2023-04-23 14:31 [(人才库)海信Hisense](http://hisense.zhiye.com/Portal/Apply/Index)
 
@@ -371,8 +385,6 @@
 2023-04-04 18:04 [(简历挂)完美世界](https://app.mokahr.com/campus-recruitment/pwrd/45131#/candidateHome/applications)
 
 2023-04-04 17:12 [(简历挂)字节跳动](https://jobs.bytedance.com/campus/position/application?referral_code=FYW8CGF)
-
-2023-04-03 16:30 [(简历挂)百度](https://talent.baidu.com/jobs/center)
 
 2023-04-04 09:10 [(简历挂)网易](https://hr.163.com/user.html/application)
 
@@ -392,9 +404,15 @@
 
 2023-05-29 09:02 [盛雄](https://stronglaser.zhiye.com/personal/deliveryRecord)
 
+2023-06-01 09:24 [嘉兴银行](https://www.duomian.com/project/16362491/)
+
 
 
 ######  😢😢😢51job&无查询😢😢😢
+
+2023-04-19 14:07 [三星](https://dearsamsung.zhiye.com/Portal/Apply/Index)
+
+2023-05-28 11:08 [视海芯图](http://www.seehi.cn/?job/)
 
 2023-05-11 09:20 [Unity(无查询](https://wecruit.hotjob.cn/SU62e0b5332f9d24381010b077/pb/account.html#/myDeliver)
 
@@ -421,8 +439,6 @@
 2023-04-23 09:13 [(无查询)51WORLD](https://51world.zhiye.com/personal/deliveryRecord)
 
 2023-04-20 08:59 [东软(无查询)](https://neusoft-campus.zhiye.com/personal/deliveryRecord)
-
-2023-04-25 13:51 [(无查)智加科技](https://app.mokahr.com/social-recruitment/plus/73958#/job/1b970e19-bdef-4cc7-ad66-6439a63b2ba9/apply/thanks?jobId=1b970e19-bdef-4cc7-ad66-6439a63b2ba9&recommendCode=NTAU5Wm&codeType=1&isRecommendation=undefined&applyInfo%5BaimWorkCity%5D=%E8%8B%8F%E5%B7%9E%E5%B8%82&applyInfo%5BrecommendCode%5D=NTAU5Wm&candidateName=%E6%9D%A8%E9%94%B4&candidateId=428148106)
 
 2023-04-18 15:33 [经纬恒润(无查](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/account.html#/myDeliver)
 
@@ -467,8 +483,6 @@
 2023-05-04 18:09 [威盛集团](https://www.wjx.top/vm/h8seRhp.aspx)
 
 2023-05-07 08:38 [小鹅通](https://www.xiaoe-tech.com/joinUs)
-
-2023-05-08 21:57 [施耐德电气](http://www.schneidercampus.com/?page=6)
 
 2023-05-09 09:37 [鸣熙资本](https://www.mxzichan.com/job4.html)
 
@@ -534,9 +548,19 @@
 
 2023-05-29 08:58 [中广核](https://mp.weixin.qq.com/s/yo_sRMlfJVOSRKBbQEzEWQ)
 
+2023-06-01 10:50 [东方电气](https://xiaoyuan.zhaopin.com/company/CC000975030)
+
+2023-06-01 10:54 [中移动金融科技](http://zyjk2022campus.zhaopin.com/trainee.html)
+
+2023-06-02 20:57 [国家智能网联汽车](https://mp.weixin.qq.com/s/k2BkFGHLxLA_zcVIvUemqQ)
+
+2023-06-02 21:10 [三未信安](https://wj.qq.com/s2/12399820/0c1f/)
+
 
 
 ######  💔💔💔已无半点机会💔💔💔
+
+2023-04-04 10:34 [ArcSoft虹软](https://career.arcsoft.com.cn/personal/deliveryRecord)
 
 2023-04-03 13:54 [(笔试挂，已无)拼多多](https://careers.pinduoduo.com/campus/personal-center)
 
@@ -599,6 +623,12 @@
 2023-04-27 22:40 [（一面挂）理想汽车](https://li.jobs.feishu.cn/referral/campus/position/application?token=NTsxNjc3Njc1OTEwNDc0OzcxMTQ4MjU5NjM0NjQ5MTY5OTM7NzEyNzI3NTk3MDIzMTA2MDc0NA)
 
 2023-05-20 14:50 [(简历挂)TP-LINK](https://hr.tp-link.com.cn/socialDelivery)
+
+2023-05-08 21:57 [简历挂）施耐德电气](http://www.schneidercampus.com/?page=6)
+
+2023-05-25 10:17 [LIZHI（Java](https://lizhi2021.jobs.feishu.cn/referral/campus/position/share/?token=MjsxNjg0ODk0NTc5OTc5OzcwNjY5NDYxNzIyMjUzMjMwMDk7NzIzNjU2NjE0NTU2NTcyMjg5Mg)
+
+2023-04-25 13:51 [(简历挂)智加科技](https://app.mokahr.com/social-recruitment/plus/73958#/job/1b970e19-bdef-4cc7-ad66-6439a63b2ba9/apply/thanks?jobId=1b970e19-bdef-4cc7-ad66-6439a63b2ba9&recommendCode=NTAU5Wm&codeType=1&isRecommendation=undefined&applyInfo%5BaimWorkCity%5D=%E8%8B%8F%E5%B7%9E%E5%B8%82&applyInfo%5BrecommendCode%5D=NTAU5Wm&candidateName=%E6%9D%A8%E9%94%B4&candidateId=428148106)
 
 
 
