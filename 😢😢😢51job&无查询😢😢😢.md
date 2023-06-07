@@ -1,5 +1,15 @@
 #####  😢😢😢51job&无查询😢😢😢
 
+2023-04-09 20:04 [Shopee虾皮](https://app.mokahr.com/campus-recruitment/shopee/100004?previewKey=49cb651dd22f4a61ac65cb1ed36a1d749764de49ce7845c3a9b81dd32cccd06b#/candidateHome/applications)
+
+2023-04-17 10:26 [亚马逊](https://account.amazon.jobs/zh-CN)
+
+2023-05-08 21:52 [思为(Java)](https://ideamake.zhiye.com/Portal/Apply/Index)
+
+2023-05-16 08:44 [派能科技](https://www.hotjob.cn/wt/Pylontech/web/index?brandCode=#/pc)
+
+2023-05-19 15:50 [安谋科技](https://app.mokahr.com/campus_apply/armchina/68023#/candidateHome/applications)
+
 2023-04-19 14:07 [三星](https://dearsamsung.zhiye.com/Portal/Apply/Index)
 
 2023-05-28 11:08 [视海芯图](http://www.seehi.cn/?job/)
@@ -145,6 +155,12 @@
 2023-06-02 20:57 [国家智能网联汽车](https://mp.weixin.qq.com/s/k2BkFGHLxLA_zcVIvUemqQ)
 
 2023-06-02 21:10 [三未信安](https://wj.qq.com/s2/12399820/0c1f/)
+
+2023-06-05 09:31 [复星](https://webapp.zhaopin.com/2023/shh/shfxg0509ZL81814/job/index.html?id=1337907)
+
+2023-06-07 08:49 [中国外汇交易中心](http://campus.51job.com/jyzxintern/job.html)
+
+2023-06-07 08:55 [中冶武勘](https://mp.weixin.qq.com/s/Y1PXdqFz0haD1qQ7rTDD0A)
 
 
 
