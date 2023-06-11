@@ -1,5 +1,9 @@
 #####  😢😢😢51job&无查询😢😢😢
 
+2023-04-16 10:11 [虹科](https://app.mokahr.com/campus-recruitment/hkaco/68258#/candidateHome/applications)
+
+2023-04-21 19:24 [鹰角网络](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/candidateHome/applications)
+
 2023-04-09 20:04 [Shopee虾皮](https://app.mokahr.com/campus-recruitment/shopee/100004?previewKey=49cb651dd22f4a61ac65cb1ed36a1d749764de49ce7845c3a9b81dd32cccd06b#/candidateHome/applications)
 
 2023-04-17 10:26 [亚马逊](https://account.amazon.jobs/zh-CN)
